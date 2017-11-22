@@ -2,9 +2,9 @@
 class db
 {   //database connection modify for every project
     protected static $host = 'localhost';
-    protected static $username = 'root';
-    protected static $password = 'misat0';
-    protected static $database = 'CakeShop';
+    protected static $username = 'danielp';
+    protected static $password = 'votyDT!L33';
+    protected static $database = 'danielp';
     protected static $pdo = null;
     //the global pdo project you want to make the connection once and reuse the connection. 
 
